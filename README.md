@@ -1,8 +1,15 @@
 <h1 align="center">👋🏻hello!MOMO world👋🏻</h1>
+<div style="overflow: hidden;">
+<img align="left" src="https://user-images.githubusercontent.com/119273292/211787885-a072bc81-f70e-4ba6-9fde-5c68cff461dd.png" width="45%">
+<img src="https://user-images.githubusercontent.com/119273292/211797716-d32699d4-31e3-47c3-ac51-ebb939533f05.png" width="45%">
 
-<img src="https://user-images.githubusercontent.com/119273292/211787885-a072bc81-f70e-4ba6-9fde-5c68cff461dd.png">
 <br/>
 <br/>
+<br/>
+<br/>
+
+
+
 
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; margin-top:15px;" />
