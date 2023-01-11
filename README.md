@@ -1,6 +1,8 @@
 <h1 align="center">👋🏻hello!MOMO world👋🏻</h1>
 
 <img src="https://user-images.githubusercontent.com/119273292/211787885-a072bc81-f70e-4ba6-9fde-5c68cff461dd.png">
+<br/>
+<br/>
 
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; margin-top:15px;" />
@@ -21,6 +23,9 @@
 <img align="left" alt="PremierePro" width="26px" src="https://user-images.githubusercontent.com/119273292/211796531-39fe0c46-8c1e-4343-8ad2-e06c3813366e.png" style="padding-right:10px; margin-top:15px;" />
 <img align="left" alt="AfterEffects" width="26px" src="https://user-images.githubusercontent.com/119273292/211796652-97da2b62-a580-4504-9006-8f3ff49b9e62.png" style="padding-right:10px; margin-top:15px;" />
 <img align="left" alt="indesign" width="26px" src="https://user-images.githubusercontent.com/119273292/211796800-11f277b9-a5c0-4327-8881-88ae8b6f0778.png" style="padding-right:10px; margin-top:15px;" />
-
+<br/>
+<br/>
+<br/>
+<br/>
 ### CONTACT
 ✉️ eunkyeong01234@gmail.com
