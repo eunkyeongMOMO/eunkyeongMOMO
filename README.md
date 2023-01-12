@@ -1,6 +1,14 @@
 <h1 align="center">👋🏻hello!MOMO world👋🏻</h1>
-<div style="overflow: hidden;">
-<img src="https://user-images.githubusercontent.com/119273292/211787885-a072bc81-f70e-4ba6-9fde-5c68cff461dd.png" width="80%">
+<p align="center">🥰hello! I'm eunkyeong!
+<br/>
+  designer, developer🧐
+ <br/>
+ 🌱 I’m currently learning everything 🤣
+ 
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/119273292/211787885-a072bc81-f70e-4ba6-9fde-5c68cff461dd.png" width="60%">
 
 
 <br/>
