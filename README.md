@@ -4,19 +4,27 @@
   designer, developer🧐
  <br/>
  🌱 I’m currently learning everything 🤣
- 
+</p>
+<p align="center">안녕하세요.😍 </br>
+디자이너이자🍀 퍼블리셔,</br> 
+나아가 프론트엔드개발자가 될 이은경입니다🎁</br>
+</p>
+
+<p align="center">
+こんにちは。☺️
+<br/>
+韓国🇰🇷に住んでいるウェブデザイナー、ウェブ開発者MOMOです！ 🫶
+</br>
+まだまだ完璧ではありませんが、頑張っています。
+</br>
+日本語のウェブページはまだありませんが、😥 機会があれば作る予定です。💪
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/119273292/211787885-a072bc81-f70e-4ba6-9fde-5c68cff461dd.png" width="60%">
-
-
 <br/>
 <br/>
 <br/>
 <br/>
-
-
 
 
 ### Languages and Tools
@@ -46,3 +54,6 @@
 ### CONTACT
 
 ✉️ eunkyeong01234@gmail.com
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FeunkyeongMOMO&count_bg=%23FFDE00&title_bg=%238D8D8D&icon=&icon_color=%23878484&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
