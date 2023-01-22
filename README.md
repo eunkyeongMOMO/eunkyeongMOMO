@@ -38,10 +38,10 @@
      <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
      <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-     <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
      <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=Json&logoColor=white"/><br>
      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
      <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
      <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
      <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=Wordpress&logoColor=white"/>
      <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -53,12 +53,12 @@
 <br/>
 <div align="center">
   <h1>🌈Design Tools🌈</h1>
-<img align="left" alt="photoshop" width="26px" src="https://user-images.githubusercontent.com/119273292/211795800-3028ff02-61e7-48aa-a179-94fe0e1bcf14.png" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="illustrator" width="26px" src="https://user-images.githubusercontent.com/119273292/211796138-0287dcd3-f025-4890-b4b6-cee6e9201de3.png" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="adobeXD" width="26px" src="https://user-images.githubusercontent.com/119273292/211796318-50e9a294-f932-4609-85a6-12a1f8dbacc9.png" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="PremierePro" width="26px" src="https://user-images.githubusercontent.com/119273292/211796531-39fe0c46-8c1e-4343-8ad2-e06c3813366e.png" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="AfterEffects" width="26px" src="https://user-images.githubusercontent.com/119273292/211796652-97da2b62-a580-4504-9006-8f3ff49b9e62.png" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="indesign" width="26px" src="https://user-images.githubusercontent.com/119273292/211796800-11f277b9-a5c0-4327-8881-88ae8b6f0778.png" style="padding-right:10px; margin-top:15px;" />
+<img alt="photoshop" width="26px" src="https://user-images.githubusercontent.com/119273292/211795800-3028ff02-61e7-48aa-a179-94fe0e1bcf14.png" style="padding-right:10px; margin-top:15px;" />
+<img alt="illustrator" width="26px" src="https://user-images.githubusercontent.com/119273292/211796138-0287dcd3-f025-4890-b4b6-cee6e9201de3.png" style="padding-right:10px; margin-top:15px;" />
+<img alt="adobeXD" width="26px" src="https://user-images.githubusercontent.com/119273292/211796318-50e9a294-f932-4609-85a6-12a1f8dbacc9.png" style="padding-right:10px; margin-top:15px;" />
+<img alt="PremierePro" width="26px" src="https://user-images.githubusercontent.com/119273292/211796531-39fe0c46-8c1e-4343-8ad2-e06c3813366e.png" style="padding-right:10px; margin-top:15px;" />
+<img alt="AfterEffects" width="26px" src="https://user-images.githubusercontent.com/119273292/211796652-97da2b62-a580-4504-9006-8f3ff49b9e62.png" style="padding-right:10px; margin-top:15px;" />
+<img alt="indesign" width="26px" src="https://user-images.githubusercontent.com/119273292/211796800-11f277b9-a5c0-4327-8881-88ae8b6f0778.png" style="padding-right:10px; margin-top:15px;" />
 </div>
 <br/>
 <br/>
