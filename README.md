@@ -27,27 +27,32 @@
 <br/>
 
 
-### Languages and Tools
+
 <div align="center">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px; margin-top:15px; " />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/119273292/211795566-25f58d8b-1ea2-4d6e-91f2-600fcae0789d.svg" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="vue" width="26px" src="https://user-images.githubusercontent.com/119273292/211793556-ed01e475-1f7e-4601-8d5a-26175aaebb4e.png"style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px; margin-top:15px;" /></div>
-<br/>
-<br/>
-<div align="center">
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px; margin-top:15px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px; margin-top:15px;" />
+  <h1>💖Front-end Stack💖</h1>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
+     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
+     <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/><br>
+     <img src="https://img.shields.io/badge/LESS-1D365D?style=flat-square&logo=Less&logoColor=white"/>
+     <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+     <img src="https://img.shields.io/badge/VUE-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+     <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
+     <img src="https://img.shields.io/badge/JQUERY-0769AD?style=flat-square&logo=Jquery&logoColor=white"/>
+     <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=Json&logoColor=white"/><br>
+     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
+     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+     <img src="https://img.shields.io/badge/WORDPRESS-21759B?style=flat-square&logo=Wordpress&logoColor=white"/>
+     <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=Git&logoColor=white"/>
+     <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=Github&logoColor=white"/>
+ <br>
+<br>
 </div>
 <br/>
 <br/>
 <div align="center">
+  <h1>🌈Design Tools🌈</h1>
 <img align="left" alt="photoshop" width="26px" src="https://user-images.githubusercontent.com/119273292/211795800-3028ff02-61e7-48aa-a179-94fe0e1bcf14.png" style="padding-right:10px; margin-top:15px;" />
 <img align="left" alt="illustrator" width="26px" src="https://user-images.githubusercontent.com/119273292/211796138-0287dcd3-f025-4890-b4b6-cee6e9201de3.png" style="padding-right:10px; margin-top:15px;" />
 <img align="left" alt="adobeXD" width="26px" src="https://user-images.githubusercontent.com/119273292/211796318-50e9a294-f932-4609-85a6-12a1f8dbacc9.png" style="padding-right:10px; margin-top:15px;" />
