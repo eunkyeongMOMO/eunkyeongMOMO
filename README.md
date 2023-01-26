@@ -65,9 +65,28 @@
 <br/>
 <br/>
 <div align="center">
+  <h1>Portfolio</h1>
+  💛2022 design,Front-end developer
+  </br>
+  http://momo726.cafe24.com/profile/
+  </br>
+  </br>
+  💚2021 design portpolio
+  </br>
+   https://sepia-nasturtium-b49.notion.site/2021-df91ac2ff34244b1861cc4e5c4dc3a45
+  </br>
+</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<div align="center">  
 <h1>🥰CONTACT</h1>
 
 ✉️ eunkyeong01234@gmail.com
+  <br/>
+<img  width="26px" src="https://e7.pngegg.com/pngimages/827/895/png-clipart-logo-desktop-computer-icons-instagram-blog-purple-text.png"/> 
+  <a target="_blank" href="https://instagram.com/mmoo_mmmo?igshid=ZmZhODViOGI=">mmoo_mmmo</a>
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FeunkyeongMOMO&count_bg=%23FFDE00&title_bg=%238D8D8D&icon=&icon_color=%23878484&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
