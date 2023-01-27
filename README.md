@@ -70,11 +70,12 @@
   </br>
   http://momo726.cafe24.com/profile/
   </br>
+  (구직중이 아님으로 온라인 이력서 페이지는 비공개처리 되어있습니다.)
   </br>
-  💚2021 design portpolio
+<!--   💚2021 design portpolio
   </br>
    https://sepia-nasturtium-b49.notion.site/2021-df91ac2ff34244b1861cc4e5c4dc3a45
-  </br>
+  </br> -->
 </div>
 <br/>
 <br/>
