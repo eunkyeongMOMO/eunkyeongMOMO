@@ -5,10 +5,7 @@
  <br/>
  🌱 I’m currently learning everything 🤣
 </p>
-<p align="center">안녕하세요.😍 </br>
-디자이너이자🍀 퍼블리셔,</br> 
-나아가 프론트엔드개발자가 될 이은경입니다🎁</br>
-</p>
+
 
 <p align="center">
 こんにちは。☺️
@@ -84,6 +81,7 @@
 <h1>🥰CONTACT</h1>
 
 ✉️ eunkyeong01234@gmail.com
+
   <br/>
 </div>
 
