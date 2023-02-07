@@ -81,7 +81,11 @@
 <h1>🥰CONTACT</h1>
 
 ✉️ eunkyeong01234@gmail.com
-
+<br/>
+<br/>
+  코더의 사회성 개발일지📜
+  https://mmoommooo.tistory.com/
+  <br/>
   <br/>
 </div>
 
