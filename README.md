@@ -60,13 +60,13 @@
 <br/>
 <br/>
 <br/>
-<br/>
+<!-- <br/>
 <div align="center">
   <h1>Portfolio</h1>
   💛2022 design,Front-end developer
   </br>
   http://momo726.cafe24.com/profile/
-  </br>
+  </br> -->
   </br>
 <!--   💚2021 design portpolio
   </br>
@@ -78,11 +78,9 @@
 <br/>
 <br/>
 <div align="center">  
-<h1>🥰CONTACT</h1>
-
+<!-- <h1>🥰CONTACT</h1>
 ✉️ eunkyeong01234@gmail.com
-<br/>
-<br/>
+<br/> -->
   코더의 사회성 개발일지📜
   https://mmoommooo.tistory.com/
   <br/>
