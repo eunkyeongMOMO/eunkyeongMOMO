@@ -74,13 +74,11 @@
   </br> -->
 </div>
 <br/>
-<br/>
-<br/>
-<br/>
 <div align="center">  
-<!-- <h1>🥰CONTACT</h1>
+<!--
 ✉️ eunkyeong01234@gmail.com
 <br/> -->
+   <h1>🥰BLOG</h1>
   코더의 사회성 개발일지📜
   https://mmoommooo.tistory.com/
   <br/>
